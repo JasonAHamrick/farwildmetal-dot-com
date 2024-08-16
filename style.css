@@ -21,10 +21,17 @@ body {
 }
 
 #logo {
-    max-width: 90dvw;
+    max-width: 45dvw;
     min-width: 20em;
     /* width: 40em; */
     object-fit: cover;
+}
+
+@media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+    #logo {
+      width: 85dvw;
+    }
 }
 
 .link_box {
