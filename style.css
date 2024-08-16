@@ -19,6 +19,7 @@ margin-right: auto;
 }
 
 #logo {
+    max-width: 40vw;
     width: 40em;
     object-fit: cover;
 }
