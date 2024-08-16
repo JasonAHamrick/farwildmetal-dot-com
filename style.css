@@ -31,7 +31,7 @@ body {
 @media only screen and (max-width: 768px) {
     /* For mobile phones: */
     .logo_box {
-        padding-block: 10rem;
+        padding-block: 12rem;
     }
 
     #logo {
